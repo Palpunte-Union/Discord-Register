@@ -1,0 +1,5 @@
+# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../Discord-Register\.idea/codestream.xml

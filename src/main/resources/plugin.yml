@@ -1,0 +1,7 @@
+name: DiscordRegister
+version: @version@
+main: com.github.eighty88.discord.register.DiscordRegister
+api-version: 1.13
+authors: [ eight_y_88 ]
+description: Discord Register
+website: https://github.com/Palpunte-Union
